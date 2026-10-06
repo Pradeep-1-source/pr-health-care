@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0A2540"/>
+  <rect x="6" y="6" width="52" height="52" rx="12" stroke="#0D9488" stroke-width="2" stroke-opacity="0.4"/>
+  <!-- Medical Cross Glow -->
+  <path d="M32 14V50M14 32H50" stroke="#14B8A6" stroke-width="8" stroke-linecap="round"/>
+  <path d="M32 14V50M14 32H50" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <!-- PR Monogram Accent -->
+  <circle cx="44" cy="20" r="4" fill="#38BDF8"/>
+</svg>
